@@ -1,7 +1,6 @@
 # AV_Job_a_thon_february-2022
 
-**
-Problem Statement:- **
+**Problem Statement:- **
 
 ABC is an online content sharing platform that enables users to create, upload and share the content in the form of videos. It includes videos from different genres like entertainment, education, sports, technology and so on. The maximum duration of video is 10 minutes.
 
