@@ -10,7 +10,7 @@ Based on the user’s interaction with the videos, engagement score is assigned 
 
 Understanding the engagement score of the video improves the user’s interaction with the platform. It defines the type of content that is appealing to the user and engages the larger audience.
 
-Objective
+**Objective:**
 The main objective of the problem is to develop the machine learning approach to predict the engagement score of the video on the user level.
 
 Data Dictionary
