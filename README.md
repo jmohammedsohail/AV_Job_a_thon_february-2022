@@ -33,7 +33,7 @@ The list of features in the dataset is given below:
 
 
 **Acknowledgements :**
-https://datahack.analyticsvidhya.com/contest/job-a-thon-february
+https://datahack.analyticsvidhya.com/contest/job-a-thon-february-2022/?utm_source=datahack&utm_medium=navbar#LeaderBoard
 
 **My Approach:**
 
